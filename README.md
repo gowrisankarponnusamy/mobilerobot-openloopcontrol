@@ -104,8 +104,7 @@ if __name__ == '__main__':
 
 
 ## MobileRobot Movement Video:
-
-[Upload your video in Youtube and paste your video-id here](https://youtu.be/ZTXaqlw2-4c)
+(https://youtu.be/ZTXaqlw2-4c)
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
